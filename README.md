@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kinshuk Bose</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kin0126&label=Profile%20views&color=0e75b6&style=flat" alt="kin0126" /> </p>
 
